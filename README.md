@@ -17,9 +17,6 @@
   <img alt="공부 중인 Python, JavaScript, Django와 사용하는 도구 Git, VS Code" src="https://skillicons.dev/icons?i=python%2Cjs%2Cdjango%2Cgit%2Cvscode&amp;theme=light&amp;perline=5" height="48" />
 </picture>
 
-- **Python** — 기본 문법을 익히고 문제를 코드로 풀기
-- **JavaScript** — 개념과 코드의 실행 흐름 이해하기
-- **Django REST API** — 모델부터 직렬화, 요청과 응답까지 연결하기
 
 <br />
 
