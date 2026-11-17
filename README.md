@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <b>기초를 이해하고, 작은 프로젝트로 직접 확인합니다.</b><br />
-  Python · JavaScript · Django REST API를 공부하고 있습니다.
+  <b>기초를 이해하고, 작은 프로젝트로 직접 확인합니다.</b>
 </p>
 
 <br />
