@@ -29,7 +29,6 @@
 
 ### 03 · One step every day
 
-작은 학습과 기록을 꾸준히 쌓아갑니다.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lcww070513-blip/lcww070513-blip/refs/heads/main/assets/github-snake-dark.svg" />
