@@ -2,9 +2,6 @@
   <img width="100%" alt="lcw070513 — Learn. Build. Repeat." src="https://capsule-render.vercel.app/api?type=rounded&amp;color=0:0f172a,100:1e3a5f&amp;height=190&amp;text=lcw070513&amp;fontColor=f8fafc&amp;fontSize=44&amp;fontAlignY=42&amp;desc=Learn.%20Build.%20Repeat.&amp;descSize=17&amp;descAlignY=67" />
 </p>
 
-<p align="center">
-  <b>기초를 이해하고, 작은 프로젝트로 직접 확인합니다.</b>
-</p>
 
 <br />
 
