@@ -12,9 +12,9 @@
 ### 01 · Learning
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,django,git,vscode&amp;theme=dark&amp;perline=5" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,js,django,git,vscode&amp;theme=light&amp;perline=5" />
-  <img alt="공부 중인 Python, JavaScript, Django와 사용하는 도구 Git, VS Code" src="https://skillicons.dev/icons?i=python,js,django,git,vscode&amp;theme=light&amp;perline=5" height="48" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cjs%2Cdjango%2Cgit%2Cvscode&amp;theme=dark&amp;perline=5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cjs%2Cdjango%2Cgit%2Cvscode&amp;theme=light&amp;perline=5" />
+  <img alt="공부 중인 Python, JavaScript, Django와 사용하는 도구 Git, VS Code" src="https://skillicons.dev/icons?i=python%2Cjs%2Cdjango%2Cgit%2Cvscode&amp;theme=light&amp;perline=5" height="48" />
 </picture>
 
 - **Python** — 기본 문법을 익히고 문제를 코드로 풀기
@@ -39,9 +39,9 @@
 작은 학습과 기록을 꾸준히 쌓아갑니다.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lcww070513-blip/lcww070513-blip/main/assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lcww070513-blip/lcww070513-blip/main/assets/github-snake.svg" />
-  <img width="100%" alt="GitHub 활동 잔디를 따라 움직이는 뱀 애니메이션" src="https://raw.githubusercontent.com/lcww070513-blip/lcww070513-blip/main/assets/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lcww070513-blip/lcww070513-blip/refs/heads/main/assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lcww070513-blip/lcww070513-blip/refs/heads/main/assets/github-snake.svg" />
+  <img width="100%" alt="GitHub 활동 잔디를 따라 움직이는 뱀 애니메이션" src="https://raw.githubusercontent.com/lcww070513-blip/lcww070513-blip/refs/heads/main/assets/github-snake.svg" />
 </picture>
 
 <br />
